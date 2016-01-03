@@ -6,4 +6,6 @@ package com.wu.home;
 public class common {
 
     public String temp = null;
+
+
 }
